@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dat Diep! 👋
+- 🚀 DevOps Engineer and Kubernetes Enthusiast
+- 🎯 Certified **Kubestronaut** 🚀 
+- 🌐 Kubernetes Certified Administrator (CKA), Certified Developer (CKAD), Security Specialist (CKS), and more
+- 🎯 I specialize in Cloud Native Architecture, Kubernetes, and Automation
 
-<!--
-**NineKama/NineKama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
+- 🐳 Docker | ☸️ Kubernetes | 🌐 AWS | 🔧 Terraform
 
-Here are some ideas to get you started:
+### Get in Touch:
+[LinkedIn]() | [GitHub](https://github.com/NineKama)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- **[Kubernetes-Config-Checker](https://github.com/NineKama/Kubernetes-Config-Checker)**: A CLI tool to validate Kubernetes YAML files against best practices.
