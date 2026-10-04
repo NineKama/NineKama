@@ -6,7 +6,7 @@
 - 🌱 Currently learning Golang and working on microservices
 
 ## 📊 GitHub Stats
-[![Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NineKama&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Dat's GitHub stats](https://github-stats-extended.vercel.app/api?username=NineKama&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineKama&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
