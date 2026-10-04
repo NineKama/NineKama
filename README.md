@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats
 [![Dat's GitHub stats](https://github-stats-extended.vercel.app/api?username=NineKama&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineKama&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NineKama&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured Project
 - **[Kubernetes-Config-Checker](https://github.com/NineKama/Kubernetes-Config-Checker)**: A CLI tool to validate Kubernetes YAML files against best practices.
